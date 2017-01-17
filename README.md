@@ -1,5 +1,6 @@
 python_marketo
 ==============
+I am not maintaing this repo anymore, for the latest library please head to https://github.com/jepcastelein/marketo-rest-python
 
 Python interface to marketo REST api <br />
 Detailed Doc - http://developers.marketo.com/documentation/rest/
